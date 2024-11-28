@@ -60,6 +60,8 @@ Developed by:RAJASHRI I RegisterNumber:24900207
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![ex5 wave](https://github.com/user-attachments/assets/f66d6454-34d5-49c4-ad67-2f305d55f597)
+
 
 ![ex5 truthtable](https://github.com/user-attachments/assets/f0d8356d-950f-4803-8f7e-95385723c12a)
 
